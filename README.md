@@ -1,2 +1,2 @@
 # aslanweb
-aslanismail içeriğidir
+aslanismail içeriğidir, içerik işlemleri gerçekleştirilecektir.
